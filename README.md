@@ -1,6 +1,6 @@
 # philipp
 Projeto do semestre
-Tema:
+Tema: blog
 
 Público-alvo:
 
