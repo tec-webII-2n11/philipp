@@ -1,0 +1,42 @@
+*{ 
+                padding:0px; 
+                margin:0px; 
+                
+                
+            }
+            
+            #topo{
+                width: 100%;
+                height: 100px; 
+                text-align: center; 
+                clear: both; 
+                background-color: lightgrey; 
+            
+            }
+            #menu{
+                height: 30px; 
+                text-align: center;
+                padding: 10px; 
+                background-color: lightyellow; 
+            }
+            #meio{
+                width: 100%;
+                background-color: #f90;
+                height: 80%; 
+            }
+            
+            
+            #conteudo{
+                padding: 10px; 
+                width: 100%;
+                float:left;
+                background-color: lightblue; 
+                
+            }
+            #rodape{
+                clear: both; 
+                text-align: right; 
+                padding: 10px; 
+                background-color: lightgrey; 
+            }
+            

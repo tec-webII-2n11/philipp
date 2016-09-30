@@ -1,0 +1,10 @@
+form, h1{
+    text-align:center;
+}
+
+fieldset{
+	margin:auto; width:280px;
+}
+*{ 
+                background-color: lightblue; 
+}
